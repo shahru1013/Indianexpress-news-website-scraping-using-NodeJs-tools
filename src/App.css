@@ -1,0 +1,25 @@
+.main-body{
+  height: auto;
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+  display: grid;
+  grid-template-columns: 300px 300px 300px;
+}
+
+.news-sec{
+  height: 190px;
+  width: 290px;
+  margin-top: 50px;
+}
+.news-sec img{
+  height: 140px;
+  width: 290px;
+}
+.news-sec a{
+  text-decoration: none;
+  font-size: 17px;
+  font-family: 'Courier New', Courier, monospace;
+  color: rgb(82, 55, 55);
+  font-weight: 700;
+}
